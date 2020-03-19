@@ -1,0 +1,125 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Entrance.
+not empty room
+
+>>> You move to the west, arriving at the Garden.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Garden.
+not empty room
+
+>>> You passed
+
+>>> You move to the east, arriving at the Entrance.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Entrance.
+not empty room
+
+>>> You move to the north, arriving at the Bookstore.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Bookstore.
+not empty room
+
+>>> You passed
+
+>>> You move to the south, arriving at the Entrance.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Entrance.
+not empty room
+
+>>> You move to the south, arriving at the Sitting Room.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Sitting Room.
+not empty room
+
+>>> You passed
+
+>>> You move to the north, arriving at the Entrance.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Entrance.
+not empty room
+
+>>> You passed
+
+>>> #00: Old Book             - Interesting room [COMPLETED]
+#01: Big Flower           - Very interesting room [COMPLETED]
+#02: Television           - Very very interesting room [COMPLETED]
+#03: Sharp Knife          - Very very interesting room [COMPLETED]
+
+=== All quests complete! Congratulations! ===

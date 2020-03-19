@@ -1,0 +1,8 @@
+Centre > EAST > Right
+Centre > WEST > Left
+Centre > NORTH > Up
+Centre > SOUTH > Down
+Left > EAST > Centre
+Up > SOUTH > Centre
+Right > WEST > Centre
+Down > NORTH > Centre

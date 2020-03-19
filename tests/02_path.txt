@@ -1,0 +1,6 @@
+Entrance > NORTH > Bookstore
+Entrance > SOUTH > Sitting Room
+Entrance > WEST > Garden
+Garden > EAST > Entrance
+Bookstore > SOUTH > Entrance
+Sitting Room > NORTH > Entrance

@@ -1,0 +1,13 @@
+Fisher Library (entrance) > NORTH > Level Four (Fisher Library)
+Fisher Library (entrance) > SOUTH > Talking Area (Fisher Library)
+Fisher Library (entrance) > EAST > Victoria Park
+Fisher Library (entrance) > WEST > Fisher Cafe
+Level Four (Fisher Library) > NORTH > Level Five (Fisher Library)
+Level Four (Fisher Library) > SOUTH > Fisher Library (entrance)
+Level Five (Fisher Library) > SOUTH > Level Four (Fisher Library)
+Level Five (Fisher Library) > EAST > Victoria Park
+Talking Area (Fisher Library) > SOUTH > Lawbry (Kind of like Fisher but silent)
+Talking Area (Fisher Library) > NORTH > Fisher Library (entrance)
+Lawbry (Kind of like Fisher but silent) > NORTH > Talking Area (Fisher Library)
+Victoria Park > WEST > Fisher Library (entrance)
+Fisher Cafe > EAST > Fisher Library (entrance)

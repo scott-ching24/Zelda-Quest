@@ -1,0 +1,14 @@
+borrow book
+north
+unplug computer
+north
+jump
+e
+w
+w
+buy food
+e
+e
+search
+w
+QuiT

@@ -1,0 +1,15 @@
+check
+me
+l
+check
+you
+check
+sword
+quests
+inv
+help
+pick sword
+check
+me
+l
+quit

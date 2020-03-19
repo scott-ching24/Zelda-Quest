@@ -1,0 +1,154 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+You look aroud and see a librarian standing at the counter.
+
+>>> You have the book and feel slightly more intelligent. Good job!
+
+>>> You move to the north, arriving at the Level Four (Fisher Library).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Level Four (Fisher Library).
+Room looks pretty quiet. Everyone is studying for exams.
+
+>>> YES! You have a computer to do your assignment with. Whatever it takes right?
+
+>>> You move to the north, arriving at the Level Five (Fisher Library).
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Level Five (Fisher Library).
+You have a weird urge to go to Victoria Park.
+
+>>> You feel a rush of excitement as you run to the window but you break your leg. You realise that you still have to finish your assignment.
+
+>>> You move to the east, arriving at the Victoria Park.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Victoria Park.
+There's a dead magpie on the ground.
+
+>>> You move to the west, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+Librarian is still there.
+
+>>> You move to the west, arriving at the Fisher Cafe.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Fisher Cafe.
+Line is pretty long for the cafe but the wait is worth it.
+
+>>> You really didn't need the knowledge to know you can cut the line!
+
+>>> You move to the east, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+Librarian is still there.
+
+>>> You move to the east, arriving at the Victoria Park.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Victoria Park.
+There's a dead magpie on the ground.
+
+>>> Awesome sick pen let's go study again.
+
+>>> You move to the west, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+Librarian is still there.
+
+>>> Bye!

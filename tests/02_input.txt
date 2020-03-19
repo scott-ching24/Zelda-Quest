@@ -1,0 +1,11 @@
+w
+pick flower
+e
+n
+pick book
+souTh
+s
+pick television
+n
+pick knife
+quests

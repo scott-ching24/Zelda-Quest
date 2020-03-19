@@ -1,0 +1,86 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Centre.
+not empty room
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Centre.
+not empty room
+
+>>> Check what? 
+You don't have that!
+
+>>> Check what? 
+You don't have that!
+
+>>> #00: Shiny Sword          - Interesting room
+
+>>> You are carrying:
+Nothing.
+
+>>> HELP       - Shows some available commands.
+LOOK or L  - Lets you see the map/room again.
+QUESTS     - Lists all your active and completed quests.
+INV        - Lists all the items in your inventory.
+CHECK      - Lets you see an item (or yourself) in more detail.
+NORTH or N - Moves you to the north.
+SOUTH or S - Moves you to the south.
+EAST or E  - Moves you to the east.
+WEST or W  - Moves you to the west.
+QUIT       - Ends the adventure.
+
+>>> You failed
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Centre.
+not empty room
+
+>>> Bye!

@@ -1,0 +1,5 @@
+Big Flower | Flower | 0 | 1
+Old Book | Book | 2 | 0
+Television | tv | 2 | 0
+Sharp Knife | Knife | 0 | 2
+

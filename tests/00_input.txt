@@ -1,0 +1,34 @@
+quests
+w
+buy food
+EasT
+BoRroW BOOK
+check
+me
+check
+book
+NorTh
+UnPluG CompUteR
+l
+north
+jump
+east
+w
+w
+buY FOOD
+l
+east
+e
+poke
+POKE
+search
+w
+s
+HELP
+network
+INv
+s
+talk
+SCREAM
+quests
+

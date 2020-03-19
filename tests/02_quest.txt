@@ -1,0 +1,5 @@
+Old Book | PICK BOOK | Interesting room | not empty room | empty room | WILL 6 | You failed | You passed | Bookstore
+Big Flower | PICK FLOWER | Very interesting room | not empty room | empty room | WILL 5 | You failed | You passed | Garden
+Television | PICK TELEVISION | Very very interesting room | not empty room | empty room | SKILL 7 | You failed | You passed | Sitting Room
+Sharp Knife | PICK KNIFE | Very very interesting room | not empty room | empty room | SKILL 9 | You failed | You passed | Entrance
+

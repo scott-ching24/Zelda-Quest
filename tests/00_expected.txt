@@ -1,0 +1,311 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+You look aroud and see a librarian standing at the counter.
+
+>>> #00: Slapped Face         - TALK to a friend so you can look at their work.
+#01: Smart Friend         - NETWORK with people arond you so that you can get help with the assignment.
+#02: Old Book             - BORROW a book so that you can become smarter.
+#03: Computer             - UNPLUG a computer so that you have one.
+#04: Cafe Food            - BUY food from the cafeteria because you're hungry.
+#05: Magpie Bird          - SEARCH the dead magpie for feathers you can use as a pen.
+#06: Broken Leg           - JUMP off of Fisher Level Five because you've found a good landing spot in Victoria Park.
+
+>>> You move to the west, arriving at the Fisher Cafe.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Fisher Cafe.
+Line is pretty long for the cafe but the wait is worth it.
+
+>>> The line is long, perhaps gaining more knowledge will help you.
+
+>>> You move to the east, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+You look aroud and see a librarian standing at the counter.
+
+>>> You have the book and feel slightly more intelligent. Good job!
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Old Book
+Grants a bonus of 4 to SKILL.
+Grants a bonus of 4 to WILL.
+
+With your items, you have a SKILL level of 9 and a WILL power of 9.
+
+>>> Check what? 
+Old Book
+Grants a bonus of 4 to SKILL.
+Grants a bonus of 4 to WILL.
+
+
+>>> You move to the north, arriving at the Level Four (Fisher Library).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Level Four (Fisher Library).
+Room looks pretty quiet. Everyone is studying for exams.
+
+>>> YES! You have a computer to do your assignment with. Whatever it takes right?
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Level Four (Fisher Library).
+Everyone is eyeing you weirdly.
+
+>>> You move to the north, arriving at the Level Five (Fisher Library).
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Level Five (Fisher Library).
+You have a weird urge to go to Victoria Park.
+
+>>> You feel a rush of excitement as you run to the window but you break your leg. You realise that you still have to finish your assignment.
+
+>>> You move to the east, arriving at the Victoria Park.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Victoria Park.
+There's a dead magpie on the ground.
+
+>>> You move to the west, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+Librarian is still there.
+
+>>> You move to the west, arriving at the Fisher Cafe.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Fisher Cafe.
+Line is pretty long for the cafe but the wait is worth it.
+
+>>> You really didn't need the knowledge to know you can cut the line!
+
+>>> 
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Fisher Cafe.
+You lost everything because USYD food hella expensive.
+
+>>> You move to the east, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+Librarian is still there.
+
+>>> You move to the east, arriving at the Victoria Park.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Victoria Park.
+There's a dead magpie on the ground.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> Awesome sick pen let's go study again.
+
+>>> You move to the west, arriving at the Fisher Library (entrance).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Fisher Library (entrance).
+Librarian is still there.
+
+>>> You move to the south, arriving at the Talking Area (Fisher Library).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Talking Area (Fisher Library).
+You look around and see other people in the room. Someone's finished their assignment for sure!
+
+>>> HELP       - Shows some available commands.
+LOOK or L  - Lets you see the map/room again.
+QUESTS     - Lists all your active and completed quests.
+INV        - Lists all the items in your inventory.
+CHECK      - Lets you see an item (or yourself) in more detail.
+NORTH or N - Moves you to the north.
+SOUTH or S - Moves you to the south.
+EAST or E  - Moves you to the east.
+WEST or W  - Moves you to the west.
+QUIT       - Ends the adventure.
+
+>>> Yay you're happy your friend hasn't copyrighted their work yet. You get a friend, everyone gets a friend!
+
+>>> You are carrying:
+- A Old Book
+- A Computer
+- A Broken Leg
+- A Cafe Food
+- A Magpie Bird
+- A Smart Friend
+
+>>> You move to the south, arriving at the Lawbry (Kind of like Fisher but silent).
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lawbry (Kind of like Fisher but silent).
+You are "studying" (trying to get answers) with your friend in the lawbry and "realise" he's already finished.
+
+>>> You hear a sharp hum as a hand moves through the air - Shouldn't have talked in the lawbry mate. Congrats.
+
+>>> You can't do that.
+
+>>> #00: Slapped Face         - TALK to a friend so you can look at their work. [COMPLETED]
+#01: Smart Friend         - NETWORK with people arond you so that you can get help with the assignment. [COMPLETED]
+#02: Old Book             - BORROW a book so that you can become smarter. [COMPLETED]
+#03: Computer             - UNPLUG a computer so that you have one. [COMPLETED]
+#04: Cafe Food            - BUY food from the cafeteria because you're hungry. [COMPLETED]
+#05: Magpie Bird          - SEARCH the dead magpie for feathers you can use as a pen. [COMPLETED]
+#06: Broken Leg           - JUMP off of Fisher Level Five because you've found a good landing spot in Victoria Park. [COMPLETED]
+
+=== All quests complete! Congratulations! ===

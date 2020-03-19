@@ -1,0 +1,7 @@
+Slapped Face | SLAP | -2 | -2
+Smart Friend | GRADES | 3 | -1
+Old Book | BOOK | 4 | 4
+Computer | COMP | 6 | 1
+Cafe Food | FOOD | 0 | 2
+Magpie Bird | BIRD | -2 | 0
+Broken Leg | LEG | 0 | 0
