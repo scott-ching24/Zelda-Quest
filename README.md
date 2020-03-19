@@ -1,2 +1,2 @@
 # Zelda-Quest
-Imitation of the popular (previously) Zelda game
+This game was my first programming assignment at the University of Sydney which involved the creation of a program in the terminal window. Three text files (Items, Quests and Maps) are provided to the main simulation.py which in turn creates a game. The player begins in a room and progresses to pick up items in the game which are stored in the player's inventory. Completing quests within the game will allow the user to gain items which will either increase or decrease the skill level of the player. Once the player has completed the required activities, the game will conclude.
